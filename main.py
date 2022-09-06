@@ -2,7 +2,7 @@
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def print_hi(name):                     # def - define обявления функции (какие бывают функции??)
+def print_hi(name):                     # def - define обявления\определение функции (а какие бывают функции??)
     print(f'Hi, {name}')
 
 if __name__ == '__main__':
