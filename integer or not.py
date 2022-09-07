@@ -5,7 +5,7 @@ def pr_int(n2um):
     else:
         print(f'Число {n2um} не четное')
 
-if __name__ == "__main__":
+if __name__ == "__main__":                  # пробема была тут, в точке входа
     n2um=int(input("Введи число"))
     pr_int(n2um)
 
