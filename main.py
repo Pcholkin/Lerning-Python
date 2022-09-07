@@ -7,4 +7,4 @@ def print_hi(name):                     # def - define обявления\опр
 
 if __name__ == '__main__':
     name=input("What is your name?")    # input - функция чтобы считать данные от пользователя (ввести имя число итд.)
-    print(f'Fuck you {name}!')
+    print(f'Fuck you {name}, lether bastard!')
