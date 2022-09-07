@@ -30,4 +30,4 @@ q = 10 % 6
 print(f'operation remainder of the division (%) = {q}')  # вотзврат остатка от деление (не понимаю)
 
 t = 3 ** 3
-print(f'operation exponentiation (**) = {t}')       # ** - возведение в степень
+print(f'operation exponentiation (**) = {t}')        # ** - возведение в степень
