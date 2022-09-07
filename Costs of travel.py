@@ -12,7 +12,7 @@ if __name__ == '__main__':
     GAS_100=14      #расход машины на 100 км бенза, пока константа
 
     LPG = float(input("How is price of LPG?"))  #узнаем стоимость топлива
-    GAS = float(input("How is price of GAS?"))
+    GAS = float(input("How is price of GAS?"))  # не работает с (,) только с (.) ?????
 
     LPGS = round(LPG_100*LPG, 1)      #умножаем чтобы получить стоимость 100 km
     GASS = round(GAS_100*GAS, 1)
