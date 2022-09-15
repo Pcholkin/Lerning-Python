@@ -2,7 +2,7 @@ ss = input("Enter:")
 l = len(ss)
 rem_lst = ss[:l-1]   #удаляем последний символ
 print(rem_lst)
-show_last = ss[-1]  #показываем последний символ
+show_last = ss[-1]  #показываем последний символ ата
 print(show_last)
 
 #еще так можно
