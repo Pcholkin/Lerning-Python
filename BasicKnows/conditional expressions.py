@@ -61,7 +61,7 @@ else:
 #рассмотрим логическое или 'or'
 # in - в, оператор членства, есть ли что то в чем то
 
-order = 'coffee,tea' #даже если написать все в 1 строчку без запятой будет работать. Регистр влияет!
+order = 'cof8fee,tea,cacao' #даже если написать все в 1 строчку без запятой будет работать. Регистр влияет!
 if 'coffee' in order or 'cacao' in order: #хотя бы 1 условие должно сработать. Если 0 условий совпало тогда else
 # if 'coffee' in order.lower() or 'cacao' in order.lower(): - если надо выровнять регистр
     print('This Menu is fine')
@@ -70,3 +70,33 @@ else:
 
 #расстояние Левенштайна (как работают поисковики когда заменяют правописание)
 
+#ниже ручной пример но так использовать его не хорошо, лучше как выше чрез in or...
+print("########")
+if 'coffee' in order:
+    print('This menu is fine')
+else:
+    if 'cacao' in order:
+        print('This menu is fine')
+    else:
+        print('Menu not good')
+
+#оператор ELIF = else-if
+if 'coffee' in order:
+    print('coffee is good, I take it')
+elif 'cacao' in order:
+    print('cacao no good, I want coffee')
+else:
+    print('no coffee no cacao, I go home')
+
+#Операторы в условиях
+# == - оператор сравнения
+# эти операторы для float and int, на строках не работает!
+a=5
+b=5
+print(f'{a=} {s=} {s != "If we have a string?"=}') # == оператор сравнения или != - оператор не равенства
+print(f'{a=} {b=} {a == b=}')
+print(f'{a < b=} {a > b=}') # больше/меньше
+print(f'{b=} {a <= b=} {a < b=} {a >= b=} {a > b=} {a == b=}')
+print(f'{a != b=} {not a != b} {not True=} {not False=}') # NOT - оператор обратного от булевого значения, если было да он меняет на нет.
+
+print(f'{"p" in "panorama"=}; {"Fa" in "Fuck"=}') #сравниваем в СТРОКЕ символ букву или слово
