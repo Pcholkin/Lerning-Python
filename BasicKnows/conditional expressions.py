@@ -99,4 +99,4 @@ print(f'{a < b=} {a > b=}') # больше/меньше
 print(f'{b=} {a <= b=} {a < b=} {a >= b=} {a > b=} {a == b=}')
 print(f'{a != b=} {not a != b} {not True=} {not False=}') # NOT - оператор обратного от булевого значения, если было да он меняет на нет.
 
-print(f'{"p" in "panorama"=}; {"Fa" in "Fuck"=}') #сравниваем в СТРОКЕ символ букву или слово
+print(f'{"p" in "panorama"=}; {"Fa" in "Fuck"=}')
