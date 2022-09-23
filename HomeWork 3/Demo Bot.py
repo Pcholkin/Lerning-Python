@@ -1,6 +1,6 @@
 # наверно можно было и так сделать, но что то я решил намудрить.
 
-print('Hey, nice to see you, how\'s your day?')
+print('Hey, nice to see you, how\'s your day? What have you been doing?')
 c1 = input('>> ')
 if 'studyed' in c1.lower() or 'school' in c1.lower() or 'work' in c1.lower():
         print('all our life we study or work, how you prefer to rest?')
