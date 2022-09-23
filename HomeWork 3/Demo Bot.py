@@ -12,8 +12,30 @@ else:
 c2 = input('>> ')
 if 'games' in c2.lower():
     print('I\'m also love games, my favourite is FORZA Motosport 5')
-elif 'movie' in c2.lower() or 'youtube' in c2.lower() or 'film' in c2.lower():
-    print('')
+elif 'movie' in c2.lower() or 'cinema' in c2.lower() or 'film' in c2.lower():
+    print('Did you see SNATCH movie with BradPitt?')
+    c2_2 = input(">> ")
+    if 'yes' in c2_2.lower() or 'cool' in c2_2.lower() or 'best' in c2_2.lower():
+        print('I want to watch it for the second time today!')
+    elif 'no' in c2_2.lower() or 'don\'t' in c2_2.lower() or 'never' in c2_2.lower():
+        print('You missed a lot, It\'s my best recommendation')
+    else:
+        print('Don\'t worry, maybe later (:')
+elif 'youtube' in c2.lower() or 'instagram' in c2.lower() or 'social' in c2.lower():
+    print('Social network is my favourite type to change attention from work or study process ')
+elif 'walk' in c2.lower() or 'sport' in c2.lower() or 'gym' in c2.lower():
+    print('The same, I prefeare park!')
+else:
+    print('Interesting point, sometimes I need just be alone, and rest.')
+
+print('Sorry, i have to go, my mom\'s coming!')
+c3 = input('>> ')
+if 'bye' in c3.lower() or 'glad' in c3.lower() or 'ok' in c3.lower() or 'good' in c3.lower()
+    print('See you next time!')
+else:
+    print('sorry, next time man, she calling me... chears!')
+    exit()
+
 
 
 
