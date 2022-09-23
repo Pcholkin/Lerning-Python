@@ -30,7 +30,7 @@ else:
 
 print('Sorry, i have to go, my mom\'s coming!')
 c3 = input('>> ')
-if 'bye' in c3.lower() or 'glad' in c3.lower() or 'ok' in c3.lower() or 'good' in c3.lower()
+if 'bye' in c3.lower() or 'glad' in c3.lower() or 'ok' in c3.lower() or 'good' in c3.lower():
     print('See you next time!')
 else:
     print('sorry, next time man, she calling me... chears!')
