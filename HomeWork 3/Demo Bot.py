@@ -1,3 +1,24 @@
+# наверно можно было и так сделать, но что то я решил намудрить.
+
+print('Hey, nice to see you, how\'s your day?')
+c1 = input('>> ')
+    if 'studyed' in c1.lower() or 'school' in c1.lower:
+        print('all our life we study, how you prefer to rest?')
+    elif 'sorry' in c1.lower() or 'tired' in c1.lower() or 'sleap' in c1.lower():
+        print('I got it, see you next time!')
+        exit()
+    else:
+        print('I)
+dial = 'hay', 'hello', 'hi', 'watsup', 'morning', 'how are you',#тут надо нсыпать все варианты, но зная что есть словари то
+'are you busy?', 'watching tv',                                             # наверно легче привязывать уже готовые словари для движения по
+                                                 # алгоритму диалога
+
+
+
+
+
+# сначало сделал так
+
 print('''
 Hey! 
 I\'m school bot R2D2.
