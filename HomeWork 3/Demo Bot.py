@@ -2,17 +2,18 @@
 
 print('Hey, nice to see you, how\'s your day?')
 c1 = input('>> ')
-    if 'studyed' in c1.lower() or 'school' in c1.lower:
-        print('all our life we study, how you prefer to rest?')
-    elif 'sorry' in c1.lower() or 'tired' in c1.lower() or 'sleap' in c1.lower():
+if 'studyed' in c1.lower() or 'school' in c1.lower() or 'work' in c1.lower():
+        print('all our life we study or work, how you prefer to rest?')
+elif 'sorry' in c1.lower() or 'tired' in c1.lower() or 'sleap' in c1.lower():
         print('I got it, see you next time!')
         exit()
-    else:
-        print('I)
-dial = 'hay', 'hello', 'hi', 'watsup', 'morning', 'how are you',#тут надо нсыпать все варианты, но зная что есть словари то
-'are you busy?', 'watching tv',                                             # наверно легче привязывать уже готовые словари для движения по
-                                                 # алгоритму диалога
-
+else:
+    print('are you sure it\'s in english')
+c2 = input('>> ')
+if 'games' in c2.lower():
+    print('I\'m also love games, my favourite is FORZA Motosport 5')
+elif 'movie' in c2.lower() or 'youtube' in c2.lower() or 'film' in c2.lower():
+    print('')
 
 
 
