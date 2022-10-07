@@ -68,7 +68,7 @@ if 'coffee' in order or 'cacao' in order: #хотя бы 1 условие дол
 else:
     print('This menu don\'t included coffee of cacao' )
 if 'tea' in order:
-    print('test tea')
+    print('test.txt tea')
 
 #расстояние Левенштайна (как работают поисковики когда заменяют правописание)
 #ниже ручной пример но так использовать его не хорошо, лучше как выше чрез in or...
