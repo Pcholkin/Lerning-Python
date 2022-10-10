@@ -1,0 +1,211 @@
+{
+  "Cars": [
+    {
+      "Brand": "BYD",
+      "Model": "A13",
+      "Year": "2021",
+      "Factory": "China",
+      "Colour": "Black",
+      "Condition": "NEW",
+      "Fuel type": "GAS"
+    },
+        {
+      "Brand": "FORD",
+      "Model": "LIGHTNING",
+      "Year": "2022",
+      "Factory": "USA",
+      "Colour": "Black",
+      "Condition": "NEW",
+      "Fuel type": "Electricity"
+    },
+    {
+      "Brand": "AUDI",
+      "Model": "S6",
+      "Year": "2020",
+      "Factory": "Europe",
+      "Colour": "Black",
+      "Condition": "Used",
+      "Fuel type": "GAS"
+    },
+    {
+      "Brand": "AUDI",
+      "Model": "S8+",
+      "Year": "2022",
+      "Factory": "Europe",
+      "Colour": "Black",
+      "Condition": "NEW",
+      "Fuel type": "GAS"
+    },
+    {
+      "Brand": "KIA",
+      "Model": "SPORTAGE",
+      "Year": "2017",
+      "Factory": "Korea",
+      "Colour": "White",
+      "Condition": "Used",
+      "Fuel type": "GAS"
+    },
+    {
+      "Brand": "Hyndae",
+      "Model": "SONATA",
+      "Year": "2017",
+      "Factory": "Korea",
+      "Colour": "Colored",
+      "Condition": "Used",
+      "Fuel type": "GAS"
+    },
+    {
+      "Brand": "OPEL",
+      "Model": "ADAM",
+      "Year": "2020",
+      "Factory": "Europe",
+      "Colour": "White",
+      "Condition": "Used",
+      "Fuel type": "Electricity"
+    },
+    {
+      "Brand": "KIA",
+      "Model": "OPTIMA",
+      "Year": "2021",
+      "Factory": "Korea",
+      "Colour": "Colored",
+      "Condition": "NEW",
+      "Fuel type": "GAS"
+    },
+    {
+      "Brand": "AUDI",
+      "Model": "A8",
+      "Year": "2017",
+      "Factory": "Europe",
+      "Colour": "Colored",
+      "Condition": "Used",
+      "Fuel type": "Diesel"
+    },
+    {
+      "Brand": "Hyndae",
+      "Model": "SantaFe",
+      "Year": "2015",
+      "Factory": "Korea",
+      "Colour": "Colored",
+      "Condition": "Used",
+      "Fuel type": "GAS"
+    },
+    {
+      "Brand": "DODGE",
+      "Model": "CHALLENGER",
+      "Year": "2021",
+      "Factory": "USA",
+      "Colour": "White",
+      "Condition": "NEW",
+      "Fuel type": "GAS"
+    },
+    {
+      "Brand": "VW",
+      "Model": "PASSAT",
+      "Year": "2017",
+      "Factory": "Europe",
+      "Colour": "White",
+      "Condition": "Used",
+      "Fuel type": "Diesel"
+    },
+    {
+      "Brand": "CHERRY",
+      "Model": "TIGGO",
+      "Year": "2014",
+      "Factory": "China",
+      "Colour": "Colored",
+      "Condition": "Used",
+      "Fuel type": "GAS"
+    },
+    {
+      "Brand": "CHEVROLET",
+      "Model": "SILVERADO 3500HD",
+      "Year": "2020",
+      "Factory": "USA",
+      "Colour": "Colored",
+      "Condition": "Used",
+      "Fuel type": "Diesel"
+    },
+    {
+      "Brand": "OPEL",
+      "Model": "INSIGNIA",
+      "Year": "2022",
+      "Factory": "Europe",
+      "Colour": "Colored",
+      "Condition": "NEW",
+      "Fuel type": "Diesel"
+    },
+    {
+      "Brand": "BYD",
+      "Model": "C6a",
+      "Year": "2014",
+      "Factory": "China",
+      "Colour": "Colored",
+      "Condition": "Used",
+      "Fuel type": "GAS"
+    },
+    {
+      "Brand": "DODGE",
+      "Model": "RAM 1500",
+      "Year": "2022",
+      "Factory": "USA",
+      "Colour": "White",
+      "Condition": "NEW",
+      "Fuel type": "Diesel"
+    },
+    {
+      "Brand": "FORD",
+      "Model": "F150",
+      "Year": "2022",
+      "Factory": "USA",
+      "Colour": "Colored",
+      "Condition": "NEW",
+      "Fuel type": "GAS"
+    },
+    {
+      "Brand": "VW",
+      "Model": "CADDY",
+      "Year": "2014",
+      "Factory": "Europe",
+      "Colour": "Colored",
+      "Condition": "Used",
+      "Fuel type": "Diesel"
+    },
+    {
+      "Brand": "CHEVROLET",
+      "Model": "SILVERADO 2500",
+      "Year": "2020",
+      "Factory": "USA",
+      "Colour": "Colored",
+      "Condition": "Used",
+      "Fuel type": "GAS"
+    },
+{
+      "Brand": "Renault",
+      "Model": "ZOE",
+      "Year": "2018",
+      "Factory": "Europe",
+      "Colour": "Colored",
+      "Condition": "Used",
+      "Fuel type": "Electricity"
+    },
+    {
+      "Brand": "FIAT",
+      "Model": "500E",
+      "Year": "2020",
+      "Factory": "USA",
+      "Colour": "Colored",
+      "Condition": "Used",
+      "Fuel type": "Electricity"
+    },
+    {
+      "Brand": "Mercedes - Benz",
+      "Model": "A200",
+      "Year": "2018",
+      "Factory": "Europe",
+      "Colour": "White",
+      "Condition": "Used",
+      "Fuel type": "Electricity"
+    }
+  ]
+}
