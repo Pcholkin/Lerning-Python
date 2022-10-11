@@ -10,7 +10,8 @@ x = list()
 exit = False
 while not exit:
 
-    y = input('Your number: ')
+    print('Press SUM to + all your numbers.')
+    y = input('Your numbers: ')
     is_number(y)  #вызываем функцию для проверки
 
     if is_number(y) == True:  #тут проверяем или функция дает True - таки цифры
