@@ -64,7 +64,7 @@ while not exit:
         2. Cars by year
         3. Cars by condition
         4. Cars by fuel type
-        5. Add car
+        5. Add car  # это я как раз пытаюсь побороть
         6. Exit
         """)
 

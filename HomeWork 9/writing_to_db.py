@@ -34,4 +34,3 @@ my_base = (my_base, car_info)
 print(my_base)
 
 json.dump(my_base, open(main_file, mode='w'), indent=4)
-
